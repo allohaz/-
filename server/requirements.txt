@@ -1,0 +1,7 @@
+pynput
+pystray
+pillow
+mss
+av
+numpy
+dxcam
